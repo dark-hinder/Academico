@@ -60,7 +60,7 @@ WSGI_APPLICATION = 'config.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'projeto_academico2026',    
+        'NAME': 'academico2026infi',    
         'USER': 'postgres',
         'PASSWORD': '123456',
         'HOST': 'localhost',
